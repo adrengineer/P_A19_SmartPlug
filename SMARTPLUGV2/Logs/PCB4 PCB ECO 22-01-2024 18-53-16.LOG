@@ -1,6 +1,0 @@
-Change Component Library : Designator=Q Old Library=[0305]igbt_STGD5NB120SZ.IntLib New Library=[0305]igbt_STGD5NB120SZ.SchLib
-Added Component: Designator=T(SOT78A)
-Added Pin To Net: NetName=NetT_G Pin=T-G
-Added Pin To Net: NetName=NetD1_4 Pin=T-T1
-Added Pin To Net: NetName=NetF_2 Pin=T-T2
-Added Member To Class: ClassName=PS2 Member=Component T BTA316-800E
