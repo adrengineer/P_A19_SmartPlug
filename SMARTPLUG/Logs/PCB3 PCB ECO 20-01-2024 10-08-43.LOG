@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+12 Pin=LD22-1
+Removed Pin From Net: NetName=+9V Pin=R23-1
+Removed Pin From Net: NetName=NetD21_3 Pin=R23-2
+Removed Pin From Net: NetName=+9V Pin=R24-1
+Removed Pin From Net: NetName=NetLD21_2 Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Member From Class: ClassName=PAGE1 Member=LD22
+Change Component DesignItemId : Designator=R23 Old DesignItemId=RES0805_120R New DesignItemId=RES0603_220R
+Change Component DesignItemId : Designator=R24 Old DesignItemId=RES0805_120R New DesignItemId=RES0603_220R
+Change Component Footprint: Designator=R23 Old Footprint=RESC2012X60N New Footprint=RES 0603 220R
+Change Component Footprint: Designator=R24 Old Footprint=RESC2012X60N New Footprint=RES 0603 220R
+Change Component Comment : Designator=R23 Old Comment=120R New Comment=220R
+Change Component Comment : Designator=R24 Old Comment=120R New Comment=220R
+Added Pin To Net: NetName=NetD21_3 Pin=R23-1
+Added Pin To Net: NetName=+9V Pin=R23-2
+Added Pin To Net: NetName=NetLD21_2 Pin=R24-1
+Added Pin To Net: NetName=+9V Pin=R24-2
+Added Member To Class: ClassName=PAGE1 Member=Component R25 120R

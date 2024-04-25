@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Change Component DesignItemId : Designator=C3 Old DesignItemId=10n New DesignItemId=CAP 0603 100nF
+Change Component Footprint: Designator=C3 Old Footprint=CAP 0805 New Footprint=CAP 0603
+Added Pin To Net: NetName=GND Pin=C3-2
+Change Net Name : Old Net Name=NetCN_DHT_2 New Net Name=DATA_DHT11
+Change Net Name : Old Net Name=NetD1_1 New Net Name=RLY-
+Change Net Name : Old Net Name=NetD1_3 New Net Name=RLY+
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-6
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=RX Pin=U44-18
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=U44-17
+Added Net: Name=TX

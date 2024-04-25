@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=+12 Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=D?-1
+Removed Pin From Net: NetName=GND Pin=K?-A1
+Removed Pin From Net: NetName=NetD?_3 Pin=Q?-2
+Removed Pin From Net: NetName=+12 Pin=U?-3
+Removed Pin From Net: NetName=+5 Pin=U?-8
+Removed Pin From Net: NetName=GND Pin=U?-9
+Removed Pin From Net: NetName=GND Pin=U?-16
+Change Component DesignItemId : Designator=U? Old DesignItemId=RA-01H New DesignItemId=ACS712ELCTR-05B-T_1
+Change Component Comment : Designator=U? Old Comment=RA-01H New Comment=ACS712ELCTR-05B-T_1
+Change Component Description : Designator=U? Old Description=Mô-đun thu phát LoRa™ ISM < 1GHz chung Không bao gồm ăng-ten 803 MHz ~ 930 MHz Giá treo bề mặt New Description=Current Sensor 5A 1 Channel Hall Effect, Open Loop Bidirectional 8-SOIC (0.154, 3.90mm Width)
+Change Component Library : Designator=U? Old Library=[0115]RA-01H_XCVR.IntLib New Library=[0603]ACS712ELCTR-05B-T.IntLib
+Added Component: Designator=C?(CAP 0603)
+Added Component: Designator=CN?(LPRS SMA RA)
+Added Component: Designator=CN?(THT_Hdr_JST_XH_Fm_2x1_0.1_RA)
+Added Component: Designator=CN_DHT(THT_Hdr_JST_XH_Fm_4x1_0.1_RA)
+Added Component: Designator=D21(SOT-23)
+Added Component: Designator=D?(SMA)
+Added Component: Designator=LD21(LED 3X1.5)
+Added Component: Designator=LD22(LED 3X1.5)
+Added Component: Designator=Q?(SOT-23)
+Added Component: Designator=R23(RESC2012X60N)
+Added Component: Designator=R24(RESC2012X60N)
+Added Component: Designator=R25(RESC2012X60N)
+Added Component: Designator=R25(RESC2012X60N)
+Added Component: Designator=R25(RESC2012X60N)
+Added Component: Designator=R?(RES 0603 220R)
+Added Component: Designator=U?(XCVR_RA-01H)
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=+5 Pin=CN_DHT-1
+Added Pin To Net: NetName=+12 Pin=D21-1
+Added Pin To Net: NetName=+12 Pin=LD22-1
+Added Pin To Net: NetName=+12 Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=NetD?_3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U44-3
+Added Pin To Net: NetName=GND Pin=U44-8
+Added Pin To Net: NetName=GND Pin=U44-19
+Added Pin To Net: NetName=+3V3 Pin=U44-20
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-3
+Added Pin To Net: NetName=+5 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-16
+Change Net Name : Old Net Name=NetCN_IN_1 New Net Name=LINE
+Change Net Name : Old Net Name=NetCN_OUT_1 New Net Name=LINE_SNS
+Change Net Name : Old Net Name=NetK?_NO New Net Name=LINE_RLY
+Added Pin To Net: NetName=+9V Pin=CN?-1
+Added Pin To Net: NetName=+9V Pin=D?-1
+Added Pin To Net: NetName=+9V Pin=R23-1
+Added Pin To Net: NetName=+9V Pin=R24-1
+Added Pin To Net: NetName=+9V Pin=R25-2
+Added Net: Name=+9V
+Added Pin To Net: NetName=+12V Pin=U?-8
+Added Net: Name=+12V
+Added Pin To Net: NetName=EARTH Pin=CN_IN-3
+Added Pin To Net: NetName=EARTH Pin=CN_OUT-3
+Added Net: Name=EARTH
+Added Pin To Net: NetName=NetCN?_1 Pin=CN?-1
+Added Pin To Net: NetName=NetCN?_1 Pin=U?-1
+Added Net: Name=NetCN?_1
+Added Pin To Net: NetName=NetCN?_4 Pin=U44-28
+Added Net: Name=NetCN?_4
+Added Pin To Net: NetName=NetCN?_5 Pin=U44-27
+Added Net: Name=NetCN?_5
+Added Pin To Net: NetName=NetCN?_9 Pin=U44-18
+Added Net: Name=NetCN?_9
+Added Pin To Net: NetName=NetCN?_10 Pin=U44-17
+Added Net: Name=NetCN?_10
+Added Pin To Net: NetName=NetCN_DHT_2 Pin=CN_DHT-2
+Added Pin To Net: NetName=NetCN_DHT_2 Pin=U44-21
+Added Net: Name=NetCN_DHT_2
+Added Pin To Net: NetName=NetD21_3 Pin=D21-3
+Added Pin To Net: NetName=NetD21_3 Pin=LD21-1
+Added Pin To Net: NetName=NetD21_3 Pin=R23-2
+Added Net: Name=NetD21_3
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=K?-A1
+Added Pin To Net: NetName=NetD?_1 Pin=Q?-3
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=Q?-3
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetLD21_2 Pin=LD21-2
+Added Pin To Net: NetName=NetLD21_2 Pin=R24-2
+Added Net: Name=NetLD21_2
+Added Pin To Net: NetName=NetLD22_2 Pin=LD22-2
+Added Pin To Net: NetName=NetLD22_2 Pin=R25-2
+Added Net: Name=NetLD22_2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U44-9
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetU44_4 Pin=U44-4
+Added Pin To Net: NetName=NetU44_4 Pin=U?-7
+Added Net: Name=NetU44_4
+Added Pin To Net: NetName=NetU44_5 Pin=U44-5
+Added Pin To Net: NetName=NetU44_5 Pin=U?-5
+Added Net: Name=NetU44_5
+Added Pin To Net: NetName=NetU44_6 Pin=U44-6
+Added Pin To Net: NetName=NetU44_6 Pin=U?-4
+Added Net: Name=NetU44_6
+Added Pin To Net: NetName=NetU44_7 Pin=U44-7
+Added Pin To Net: NetName=NetU44_7 Pin=U?-15
+Added Net: Name=NetU44_7
+Added Pin To Net: NetName=NetU44_14 Pin=U44-14
+Added Pin To Net: NetName=NetU44_14 Pin=U?-12
+Added Net: Name=NetU44_14
+Added Pin To Net: NetName=NetU44_15 Pin=U44-15
+Added Pin To Net: NetName=NetU44_15 Pin=U?-13
+Added Net: Name=NetU44_15
+Added Pin To Net: NetName=NetU44_16 Pin=U44-16
+Added Pin To Net: NetName=NetU44_16 Pin=U?-14
+Added Net: Name=NetU44_16
+Added Pin To Net: NetName=NEUTRAL Pin=CN_IN-2
+Added Pin To Net: NetName=NEUTRAL Pin=CN_OUT-2
+Added Pin To Net: NetName=NEUTRAL Pin=PS?-2
+Added Net: Name=NEUTRAL
+Added Member To Class: ClassName=PAGE1 Member=Component CN? Value
+Added Member To Class: ClassName=PAGE1 Member=Component CN_DHT Value
+Added Member To Class: ClassName=PAGE1 Member=Component D21 BAS19
+Added Member To Class: ClassName=PAGE1 Member=Component LD21 GREEN
+Added Member To Class: ClassName=PAGE1 Member=Component LD22 RED
+Added Member To Class: ClassName=PAGE1 Member=Component R23 120R
+Added Member To Class: ClassName=PAGE1 Member=Component R24 120R
+Added Member To Class: ClassName=PAGE1 Member=Component R25 120R

@@ -1,0 +1,10 @@
+Added Component: Designator=R214(RES 0603 220R)
+Added Component: Designator=R240(RES 0603 220R)
+Added Pin To Net: NetName=NetQ3_1 Pin=R214-1
+Added Pin To Net: NetName=+9V Pin=R240-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R240-2
+Added Pin To Net: NetName=NetR214_2 Pin=R214-2
+Added Pin To Net: NetName=NetR214_2 Pin=U44-9
+Added Net: Name=NetR214_2
+Added Member To Class: ClassName=PAGE1 Member=Component R214 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R240 220R

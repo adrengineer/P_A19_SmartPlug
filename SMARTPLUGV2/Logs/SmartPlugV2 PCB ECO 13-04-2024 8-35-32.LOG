@@ -1,0 +1,191 @@
+Added Component: Designator=C1(CAP 0603 1uF)
+Added Component: Designator=C1(CAP 0603)
+Added Component: Designator=C2(CAP 0603 1uF)
+Added Component: Designator=C2(CAP 0603)
+Added Component: Designator=C3(CAP 0603 1uF)
+Added Component: Designator=C3(CAP 0603)
+Added Component: Designator=C4(CAP 0603 1uF)
+Added Component: Designator=C4(CAP 0603 1uF)
+Added Component: Designator=C5(CAP 0603 1uF)
+Added Component: Designator=C6(CAP 0603 1uF)
+Added Component: Designator=C7(CAP 0603 1uF)
+Added Component: Designator=CN?(AVX_10_in)
+Added Component: Designator=D1(SOT-23)
+Added Component: Designator=Q1([0301]BC846B_SOT23)
+Added Component: Designator=Q1([0301]BC846B_SOT23)
+Added Component: Designator=Q2([0301]BC846B_SOT23)
+Added Component: Designator=Q?([0301]BC846B_SOT23)
+Added Component: Designator=Q?([0301]BC846B_SOT23)
+Added Component: Designator=R1(RES 0603 220R)
+Added Component: Designator=R2(RES 0603 220R)
+Added Component: Designator=R2(RES 0603 220R)
+Added Component: Designator=R3(RES 0603 220R)
+Added Component: Designator=R3(RES 0603 220R)
+Added Component: Designator=R4(RES 0603 220R)
+Added Component: Designator=R4(RES 0603 220R)
+Added Component: Designator=R5(RES 0603 220R)
+Added Component: Designator=R6(RES 0603 220R)
+Added Component: Designator=R6(RES 0603 220R)
+Added Component: Designator=R7(RES 0603 220R)
+Added Component: Designator=R8(RES 0603 220R)
+Added Component: Designator=R9(RES 0603 220R)
+Added Component: Designator=R10(RES 0603 220R)
+Added Component: Designator=R11(RES 0603 220R)
+Added Component: Designator=R12(RES 0603 220R)
+Added Component: Designator=R13(RES 0603 220R)
+Added Component: Designator=R14(RES 0603 220R)
+Added Component: Designator=R15(RES 0603 220R)
+Added Component: Designator=T(SOT78A)
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Added Component: Designator=U2(SO-8)
+Added Component: Designator=U3(SOT223)
+Added Component: Designator=U5(SOT-23)
+Added Pin To Net: NetName=+3V3 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=12VDC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=12VDC Pin=C2-1
+Added Pin To Net: NetName=RLY+ Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=12VDC Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=DGND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=DGND Pin=C4-2
+Added Pin To Net: NetName=RLY+ Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=LS+ Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=RLY+ Pin=C7-2
+Added Pin To Net: NetName=MCLR Pin=CN?-1
+Added Pin To Net: NetName=+3V3 Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-3
+Added Pin To Net: NetName=ICS_D Pin=CN?-4
+Added Pin To Net: NetName=ICS_C Pin=CN?-5
+Added Pin To Net: NetName=+12 Pin=CN?-6
+Added Pin To Net: NetName=RX Pin=CN?-9
+Added Pin To Net: NetName=TX Pin=CN?-10
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=RLY- Pin=D1-1
+Added Pin To Net: NetName=NEUT Pin=D1-2
+Added Pin To Net: NetName=DGND Pin=D1-3
+Added Pin To Net: NetName=RLY+ Pin=D1-3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=DGND Pin=Q1-2
+Added Pin To Net: NetName=PD_A Pin=Q1-2
+Added Pin To Net: NetName=DGND Pin=Q1-3
+Added Pin To Net: NetName=RLY+ Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=RLY- Pin=Q2-3
+Added Pin To Net: NetName=12VDC Pin=Q?-1
+Added Pin To Net: NetName=12VDC Pin=Q?-1
+Added Pin To Net: NetName=LS+ Pin=Q?-2
+Added Pin To Net: NetName=LS+ Pin=Q?-2
+Added Pin To Net: NetName=BAT+ Pin=Q?-3
+Added Pin To Net: NetName=BAT+ Pin=Q?-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=AC_CTL Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetJ1_3 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=PD_C Pin=R4-1
+Added Pin To Net: NetName=12VDC Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=MCLR Pin=R5-1
+Added Pin To Net: NetName=+3V3 Pin=R5-2
+Added Pin To Net: NetName=NetF_2 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=AC_CUR Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=RLY+ Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetD1_1 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=SCR_EN Pin=R11-2
+Added Pin To Net: NetName=DGND Pin=R12-1
+Added Pin To Net: NetName=+V_BAT Pin=R12-2
+Added Pin To Net: NetName=DGND Pin=R13-1
+Added Pin To Net: NetName=NetR4_1 Pin=R13-2
+Added Pin To Net: NetName=PSU_EN Pin=R14-2
+Added Pin To Net: NetName=DGND Pin=R15-1
+Added Pin To Net: NetName=NetR10_1 Pin=R15-2
+Added Pin To Net: NetName=NetT_G Pin=T-G
+Added Pin To Net: NetName=NetD1_4 Pin=T-T1
+Added Pin To Net: NetName=NetF_2 Pin=T-T2
+Added Pin To Net: NetName=LINE_RLY Pin=U1-1
+Added Pin To Net: NetName=LINE_RLY Pin=U1-2
+Added Pin To Net: NetName=LINE_SNS Pin=U1-3
+Added Pin To Net: NetName=LINE_SNS Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC3_1 Pin=U1-6
+Added Pin To Net: NetName=NetR8_1 Pin=U1-7
+Added Pin To Net: NetName=RLY+ Pin=U1-8
+Added Pin To Net: NetName=AC_CUR Pin=U2-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-1
+Added Pin To Net: NetName=DGND Pin=U2-2
+Added Pin To Net: NetName=NetR6_1 Pin=U2-2
+Added Pin To Net: NetName=DGND Pin=U2-3
+Added Pin To Net: NetName=NetR7_1 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetC4_1 Pin=U2-4
+Added Pin To Net: NetName=NetR4_1 Pin=U2-5
+Added Pin To Net: NetName=12VDC Pin=U2-6
+Added Pin To Net: NetName=NetC2_2 Pin=U2-7
+Added Pin To Net: NetName=+12 Pin=U2-8
+Added Pin To Net: NetName=NetR2_1 Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=RLY+ Pin=U3-2
+Added Pin To Net: NetName=RLY+ Pin=U3-2
+Added Pin To Net: NetName=LS+ Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=+3V3 Pin=U5-2
+Added Pin To Net: NetName=RLY+ Pin=U5-3
+Added Member To Class: ClassName=SmartPlugV2 Member=Component C1 100nF
+Added Member To Class: ClassName=SmartPlugV2 Member=Component C2 100nF
+Added Member To Class: ClassName=SmartPlugV2 Member=Component C3 1N
+Added Member To Class: ClassName=SmartPlugV2 Member=Component C4 1uF
+Added Member To Class: ClassName=SmartPlugV2 Member=Component C5 1uF
+Added Member To Class: ClassName=SmartPlugV2 Member=Component C6 1uF
+Added Member To Class: ClassName=SmartPlugV2 Member=Component C7 1uF
+Added Member To Class: ClassName=SmartPlugV2 Member=Component CN? AVX 5_10_in
+Added Member To Class: ClassName=SmartPlugV2 Member=Component D1 BAS19
+Added Member To Class: ClassName=SmartPlugV2 Member=Component Q1 Value
+Added Member To Class: ClassName=SmartPlugV2 Member=Component Q2 Value
+Added Member To Class: ClassName=SmartPlugV2 Member=Component Q? BC846A
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R1 510k
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R2 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R3 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R4 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R5 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R6 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R7 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R8 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R9 220R
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R10 200k
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R11 210
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R12 200k
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R13 124k
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R14 200k
+Added Member To Class: ClassName=SmartPlugV2 Member=Component R15 200k
+Added Member To Class: ClassName=SmartPlugV2 Member=Component T BTA316-800E
+Added Member To Class: ClassName=SmartPlugV2 Member=Component U1 ACS712ELCTR-05B-T_1
+Added Member To Class: ClassName=SmartPlugV2 Member=Component U2 NJM072
+Added Member To Class: ClassName=SmartPlugV2 Member=Component U3 LD1117
+Added Member To Class: ClassName=SmartPlugV2 Member=Component U5 MCP1700T

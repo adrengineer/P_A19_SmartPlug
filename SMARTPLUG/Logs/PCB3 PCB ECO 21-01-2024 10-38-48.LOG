@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetU4_12 New Net Name=SCK
+Change Net Name : Old Net Name=NetU4_13 New Net Name=MISO
+Change Net Name : Old Net Name=NetU4_14 New Net Name=MOSI
+Change Net Name : Old Net Name=NetU4_15 New Net Name=CSN

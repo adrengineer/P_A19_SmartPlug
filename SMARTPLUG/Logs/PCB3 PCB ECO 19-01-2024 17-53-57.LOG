@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=NetK?_NO Pin=U?-1
+Removed Pin From Net: NetName=NetK?_NO Pin=U?-2
+Removed Pin From Net: NetName=NetCN_OUT_1 Pin=U?-3
+Removed Pin From Net: NetName=NetCN_OUT_1 Pin=U?-4
+Removed Pin From Net: NetName=GND Pin=U?-5
+Removed Pin From Net: NetName=NetC?_2 Pin=U?-6
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-7
+Added Component: Designator=CN_IN(TE_282841-3)
+Added Component: Designator=CN_OUT(TE_282841-3)
+Added Component: Designator=J?(MINI-FLAT-4)
+Added Component: Designator=J?(DHT22)
+Added Component: Designator=K?(RELAY_SRD-05VDC-SL-C)
+Added Component: Designator=PS?(CONV_RAC01-12SGB)
+Added Component: Designator=U?(XCVR_RA-01H)
+Added Pin To Net: NetName=NetCN_IN_1 Pin=CN_IN-1
+Added Pin To Net: NetName=NetCN_IN_2 Pin=CN_IN-2
+Added Pin To Net: NetName=NetCN_IN_3 Pin=CN_IN-3
+Added Pin To Net: NetName=NetCN_OUT_1 Pin=CN_OUT-1
+Added Pin To Net: NetName=NetCN_IN_2 Pin=CN_OUT-2
+Added Pin To Net: NetName=NetCN_IN_3 Pin=CN_OUT-3
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=+5 Pin=J?-4
+Added Pin To Net: NetName=GND Pin=K?-A1
+Added Pin To Net: NetName=NetD?_3 Pin=K?-A2
+Added Pin To Net: NetName=NetCN_IN_1 Pin=K?-COM
+Added Pin To Net: NetName=NetK?_NO Pin=K?-NO
+Added Pin To Net: NetName=NetCN_OUT_1 Pin=PS?-1
+Added Pin To Net: NetName=NetCN_IN_3 Pin=PS?-2
+Added Pin To Net: NetName=GND Pin=PS?-3
+Added Pin To Net: NetName=+12 Pin=PS?-4
+Added Pin To Net: NetName=NetK?_NO Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetK?_NO Pin=U?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-3
+Added Pin To Net: NetName=NetCN_OUT_1 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=NetCN_OUT_1 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=NetC?_2 Pin=U?-6
+Added Pin To Net: NetName=NetR?_1 Pin=U?-7
+Added Pin To Net: NetName=+5 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-16
+Added Member To Class: ClassName=PAGE1 Member=Component CN_IN 282841-3
+Added Member To Class: ClassName=PAGE1 Member=Component CN_OUT 282841-3
+Added Member To Class: ClassName=PAGE1 Member=Component J? DHT22
+Added Member To Class: ClassName=PAGE1 Member=Component K? SRD-05VDC-SL-C
+Added Member To Class: ClassName=PAGE1 Member=Component PS? RAC01-12SGB

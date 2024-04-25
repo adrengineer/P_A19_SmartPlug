@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetCN_PICKIT_1 Pin=R5-1
+Added Pin To Net: NetName=NetCN_PICKIT_1 Pin=U44-1
+Added Net: Name=NetCN_PICKIT_1
+Added Pin To Net: NetName=NetCN_PICKIT_4 Pin=U44-28
+Added Net: Name=NetCN_PICKIT_4
+Added Pin To Net: NetName=NetCN_PICKIT_5 Pin=U44-27
+Added Net: Name=NetCN_PICKIT_5
+Added Pin To Net: NetName=NetCN_PICKIT_9 Pin=U44-18
+Added Net: Name=NetCN_PICKIT_9
+Added Pin To Net: NetName=NetCN_PICKIT_10 Pin=U44-17
+Added Net: Name=NetCN_PICKIT_10

@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=+5 Pin=U?-8
+Change Component DesignItemId : Designator=U? Old DesignItemId=ACS712ELCTR-05B-T_1 New DesignItemId=RA-01H
+Change Component Comment : Designator=U? Old Comment=ACS712ELCTR-05B-T_1 New Comment=RA-01H
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=CN? NewDesignator=CN2
+Change Component Designator: OldDesignator=CN? NewDesignator=CN3
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=PS? NewDesignator=PS1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Description : Designator=U4 Old Description=Current Sensor 5A 1 Channel Hall Effect, Open Loop Bidirectional 8-SOIC (0.154, 3.90mm Width) New Description=Mô-đun thu phát LoRa™ ISM < 1GHz chung Không bao gồm ăng-ten 803 MHz ~ 930 MHz Giá treo bề mặt
+Change Component Library : Designator=U4 Old Library=[0603]ACS712ELCTR-05B-T.IntLib New Library=[0115]RA-01H_XCVR.IntLib
+Added Component: Designator=Q2([0301]BC846B_SOT23)
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=+12 Pin=Q3-2
+Change Net Name : Old Net Name=NetCN?_1 New Net Name=NetCN2_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD?_3 New Net Name=NetD1_3
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ1_3
+Change Net Name : Old Net Name=NetU44_4 New Net Name=NetU4_7
+Change Net Name : Old Net Name=NetU44_5 New Net Name=NetU4_5
+Change Net Name : Old Net Name=NetU44_6 New Net Name=NetU4_4
+Change Net Name : Old Net Name=NetU44_7 New Net Name=NetU4_15
+Change Net Name : Old Net Name=NetU44_14 New Net Name=NetU4_12
+Change Net Name : Old Net Name=NetU44_15 New Net Name=NetU4_13
+Change Net Name : Old Net Name=NetU44_16 New Net Name=NetU4_14
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetCN1_1 Pin=R5-1
+Added Pin To Net: NetName=NetCN1_1 Pin=U44-1
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN1_4 Pin=U44-28
+Added Net: Name=NetCN1_4
+Added Pin To Net: NetName=NetCN1_5 Pin=U44-27
+Added Net: Name=NetCN1_5
+Added Pin To Net: NetName=NetCN1_9 Pin=U44-18
+Added Net: Name=NetCN1_9
+Added Pin To Net: NetName=NetCN1_10 Pin=U44-17
+Added Net: Name=NetCN1_10
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=K1-A1
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-3
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R25-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R25-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U44-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Pin To Net: NetName=NetR6_1 Pin=U2-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Pin To Net: NetName=NetR6_2 Pin=U44-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-3
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=PAGE1 Member=Component C1 100nF
+Added Member To Class: ClassName=PAGE1 Member=Component C2 100nF
+Added Member To Class: ClassName=PAGE1 Member=Component C3 1n
+Added Member To Class: ClassName=PAGE1 Member=Component C4 1uF
+Added Member To Class: ClassName=PAGE1 Member=Component C5 1uF
+Added Member To Class: ClassName=PAGE1 Member=Component C7 1uF
+Added Member To Class: ClassName=PAGE1 Member=Component CN3 Value
+Added Member To Class: ClassName=PAGE1 Member=Component D2 NRVTS245ESFT1G
+Added Member To Class: ClassName=PAGE1 Member=Component Q2 Value
+Added Member To Class: ClassName=PAGE1 Member=Component Q3 IRLM2246
+Added Member To Class: ClassName=PAGE1 Member=Component R1 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R2 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R3 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R4 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R5 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R6 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R7 220R
+Added Member To Class: ClassName=PAGE1 Member=Component R8 220R
+Added Member To Class: ClassName=PAGE1 Member=Component U2 NJM072
+Added Member To Class: ClassName=PAGE1 Member=Component U3 L7815 D2PAK
+Added Member To Class: ClassName=PAGE1 Member=Component U4 RA-01H
+Added Member To Class: ClassName=PAGE1 Member=Component U5 MCP1700T

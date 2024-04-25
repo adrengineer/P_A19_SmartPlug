@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+12 Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-3
+Change Component DesignItemId : Designator=U3 Old DesignItemId=L7815 D2PAK New DesignItemId=LD1117-3.3
+Change Component Footprint: Designator=U3 Old Footprint=TO-252 New Footprint=SOT223
+Change Component Comment : Designator=U3 Old Comment=L7815 D2PAK New Comment=LD1117
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=+12 Pin=U3-3

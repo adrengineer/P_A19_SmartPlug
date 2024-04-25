@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:32:39 On 22/02/2024
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [SMARTPLUG.PrjPcb]
+   Generated File[BOM_PartType-SMARTPLUG.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:32:40 On 22/02/2024
