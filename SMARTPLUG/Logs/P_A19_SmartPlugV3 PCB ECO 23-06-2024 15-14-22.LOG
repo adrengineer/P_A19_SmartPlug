@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=RLY+ Pin=C2-1
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=+12 Pin=C5-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Removed Pin From Net: NetName=PD_A Pin=Q1-2
+Removed Pin From Net: NetName=RLY+ Pin=Q1-3
+Removed Pin From Net: NetName=NEUT Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=RLY- Pin=Q2-3
+Removed Pin From Net: NetName=NetQ1_1 Pin=R2-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R2-2
+Removed Pin From Net: NetName=PSU_EN Pin=R3-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R3-2
+Removed Pin From Net: NetName=PD_C Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=NetR5_1 Pin=R5-1
+Removed Pin From Net: NetName=NetR5_2 Pin=R5-2
+Removed Pin From Net: NetName=NetR6_1 Pin=R6-1
+Removed Pin From Net: NetName=NetR6_2 Pin=R6-2
+Removed Pin From Net: NetName=NetR8_1 Pin=R8-1
+Removed Pin From Net: NetName=NetR8_2 Pin=R8-2
+Removed Pin From Net: NetName=LINE_RLY Pin=U1-1
+Removed Pin From Net: NetName=LINE_RLY Pin=U1-2
+Removed Pin From Net: NetName=LINE_SNS Pin=U1-3
+Removed Pin From Net: NetName=LINE_SNS Pin=U1-4
+Removed Pin From Net: NetName=NetR8_1 Pin=U1-7
+Removed Pin From Net: NetName=NetR6_2 Pin=U2-1
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-2
+Removed Pin From Net: NetName=NetR5_1 Pin=U3-1
+Removed Pin From Net: NetName=NetQ2_3 Pin=U3-3
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=NPN SOT-23 New DesignItemId=268
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=NPN SOT-23 New DesignItemId=268
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RES0603_220R New DesignItemId=3
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES0603_220R New DesignItemId=59
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES0603_220R New DesignItemId=59
+Change Component Footprint: Designator=Q1 Old Footprint=[0301]BC846B_SOT23 New Footprint=SOT95P230X110_BEC-3N
+Change Component Footprint: Designator=Q2 Old Footprint=[0301]BC846B_SOT23 New Footprint=SOT95P230X110_BEC-3N
+Change Component Footprint: Designator=R2 Old Footprint=RES 0603 220R New Footprint=RESC2012X60N
+Change Component Footprint: Designator=R3 Old Footprint=RES 0603 220R New Footprint=RESC2012X60N
+Change Component Footprint: Designator=R4 Old Footprint=RES 0603 220R New Footprint=RESC2012X60N
+Change Component Comment : Designator=R2 Old Comment=220R New Comment=4K7
+Change Component Comment : Designator=R3 Old Comment=220R New Comment=4K7
+Change Component Comment : Designator=R4 Old Comment=220R New Comment=100R
+Change Component Comment : Designator=Q1 Old Comment=Value New Comment=BC846B
+Change Component Comment : Designator=Q2 Old Comment=Value New Comment=BC846B
+Added Component: Designator=D1(SOT95P230X110-3N)
+Added Pin To Net: NetName=+3V3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=RLY+ Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=RLY+ Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+12 Pin=C5-2
+Added Pin To Net: NetName=LS+ Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=RLY+ Pin=C7-2
+Added Pin To Net: NetName=RLY- Pin=D1-1
+Added Pin To Net: NetName=RLY+ Pin=D1-3
+Added Pin To Net: NetName=GND Pin=Q1-E
+Added Pin To Net: NetName=GND Pin=Q2-E
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-1
+Added Pin To Net: NetName=AC_CTL Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetJ1_3 Pin=R3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Pin To Net: NetName=PSU_EN Pin=R3-2
+Added Pin To Net: NetName=PD_C Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=MCLR Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=+3V3 Pin=R5-2
+Added Pin To Net: NetName=+3V3 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=AC_CUR Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=+V_BOOST Pin=R7-2
+Added Pin To Net: NetName=RLY+ Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=DGND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=+3.3V Pin=U1-1
+Added Pin To Net: NetName=LINE_RLY Pin=U1-1
+Added Pin To Net: NetName=LINE_RLY Pin=U1-2
+Added Pin To Net: NetName=LINE_SNS Pin=U1-3
+Added Pin To Net: NetName=LINE_SNS Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC3_1 Pin=U1-6
+Added Pin To Net: NetName=NetR8_1 Pin=U1-7
+Added Pin To Net: NetName=NetR5_2 Pin=U1-8
+Added Pin To Net: NetName=RLY+ Pin=U1-8
+Added Pin To Net: NetName=AC_CUR Pin=U2-1
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=+12 Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetR5_1 Pin=U3-1
+Added Pin To Net: NetName=RLY+ Pin=U3-2
+Added Pin To Net: NetName=RLY+ Pin=U3-2
+Added Pin To Net: NetName=+12 Pin=U3-3
+Added Pin To Net: NetName=LS+ Pin=U3-3
+Added Pin To Net: NetName=NetQ2_3 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=+3V3 Pin=U5-2
+Added Pin To Net: NetName=RLY+ Pin=U5-3
+Added Pin To Net: NetName=NetQ1_B Pin=Q1-B
+Added Pin To Net: NetName=NetQ1_B Pin=R2-1
+Added Net: Name=NetQ1_B
+Added Pin To Net: NetName=NetQ1_C Pin=Q1-C
+Added Pin To Net: NetName=NetQ1_C Pin=R4-1
+Added Net: Name=NetQ1_C
+Added Pin To Net: NetName=NetQ2_B Pin=Q2-B
+Added Pin To Net: NetName=NetQ2_B Pin=R3-1
+Added Net: Name=NetQ2_B
+Added Member To Class: ClassName=P_A19_SmartPlugV1 Member=Component D1 BAS19
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component D1 BAS19

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ3_2
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component Q4 DMP1045U

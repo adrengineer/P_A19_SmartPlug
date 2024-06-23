@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=EARTH Pin=CN_OUT-3
+Added Pin To Net: NetName=EARTH Pin=CN_OUT-1
+Added Pin To Net: NetName=NetCN_OUT_3 Pin=CN_OUT-3
+Added Pin To Net: NetName=NetCN_OUT_3 Pin=D10-2
+Added Net: Name=NetCN_OUT_3

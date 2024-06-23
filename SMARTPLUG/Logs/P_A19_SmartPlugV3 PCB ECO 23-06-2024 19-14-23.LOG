@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=R32 NewDesignator=R38
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R38 10K

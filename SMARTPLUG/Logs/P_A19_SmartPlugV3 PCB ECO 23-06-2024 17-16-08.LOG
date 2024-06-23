@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=P_A19_SmartPlugV3 Member=OC?
+Added Component: Designator=CN_IN(TE_282841-3)
+Added Component: Designator=CN_OUT(TE_282841-3)
+Added Pin To Net: NetName=LINE Pin=CN_IN-1
+Added Pin To Net: NetName=NEUTRAL Pin=CN_IN-2
+Added Pin To Net: NetName=EARTH Pin=CN_IN-3
+Added Pin To Net: NetName=NetCN_OUT_1 Pin=CN_OUT-1
+Added Pin To Net: NetName=NEUTRAL Pin=CN_OUT-2
+Added Pin To Net: NetName=EARTH Pin=CN_OUT-3
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN_IN Terminal
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN_OUT Terminal
