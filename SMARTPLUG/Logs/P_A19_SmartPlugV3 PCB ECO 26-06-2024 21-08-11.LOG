@@ -1,0 +1,12 @@
+Added Component: Designator=H1(P600H300)
+Added Component: Designator=H2(P600H300)
+Added Component: Designator=H3(P600H300)
+Added Component: Designator=H4(P600H300)
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H1 P600H300
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H2 P600H300
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H3 P600H300
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H4 P600H300

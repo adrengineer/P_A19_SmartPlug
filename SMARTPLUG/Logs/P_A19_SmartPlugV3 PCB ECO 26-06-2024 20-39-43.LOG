@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MUL_A Pin=CN1-5
+Removed Pin From Net: NetName=MUL_B Pin=CN1-6
+Added Pin To Net: NetName=MUL_B Pin=CN1-5
+Added Pin To Net: NetName=MUL_A Pin=CN1-6

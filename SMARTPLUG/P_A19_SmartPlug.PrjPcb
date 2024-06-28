@@ -141,40 +141,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=..\..\MyEDA_Library\[0500] Connectors\[0509] ScrewTerminal\Project Outputs for [0509]TERMINAL_RA_THT_TPRW500X750L1150T850H770-4\[0509]TERMINAL_RA_THT_TPRW500X750L1150T850H770-4.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\..\MyEDA_Library\[0300] Discrete Semiconductors\[0303] MOSFETs\Project Outputs for [0303]DMP1045U_SOT91P240X110-3N\[0303]DMP1045U_SOT91P240X110-3N.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Default Configuration\Outputs\Pick Place\Pick Place for PCB3.csv
 DItemRevisionGUID=

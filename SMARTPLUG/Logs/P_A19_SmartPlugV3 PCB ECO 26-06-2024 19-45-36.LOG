@@ -1,0 +1,95 @@
+Change Component DesignItemId : Designator=D10 Old DesignItemId=BridgeRectifier_TEMPLATE New DesignItemId=521
+Change Component DesignItemId : Designator=F1 Old DesignItemId=FUSE_TEMPLATE New DesignItemId=524
+Change Component DesignItemId : Designator=Q12 Old DesignItemId=IGBT_TEMPLATE New DesignItemId=520
+Change Component DesignItemId : Designator=CN_IN Old DesignItemId=ScrewTerminal_TEMPLATE New DesignItemId=523
+Change Component DesignItemId : Designator=CN_OUT Old DesignItemId=ScrewTerminal_TEMPLATE New DesignItemId=523
+Change Component Comment : Designator=F1 Old Comment=* New Comment=fuse
+Change Component Comment : Designator=Q12 Old Comment=BC846 New Comment=igbt
+Change Component Comment : Designator=D10 Old Comment=MB10F-13 New Comment=bridge rectifier
+Change Component Comment : Designator=CN_IN Old Comment=Terminal New Comment=screwterminal
+Change Component Comment : Designator=CN_OUT Old Comment=Terminal New Comment=screwterminal
+Change Component Description : Designator=F1 Old Description=0603 SMT Fuse New Description=fuse
+Change Component Description : Designator=D10 Old Description=Bridge Rectifier Single Phase Standard 1 kV Surface Mount MBF New Description=bridge rectifier
+Change Component Description : Designator=CN_IN Old Description=Conn Terminal Block 3 POS 5.08mm Solder ST Thru-Hole 17.5A/Contact New Description=screwterminal
+Change Component Description : Designator=CN_OUT Old Description=Conn Terminal Block 3 POS 5.08mm Solder ST Thru-Hole 17.5A/Contact New Description=screwterminal
+Change Component Description : Designator=Q12 Old Description=NPN  transistor New Description=igbt
+Change Component Library : Designator=Q12 Old Library=[0305]STGD5NB120SZ_TO460P1010X230-3N.IntLib New Library=tblMyEDA_Library.IntLib
+Change Component Library : Designator=D10 Old Library=[0306}MB10F-13_SOIC254P670X180-4N..SchLib New Library=tblMyEDA_Library.IntLib
+Change Component Library : Designator=CN_IN Old Library=[0509]TERMINAL_282841-3.IntLib New Library=tblMyEDA_Library.IntLib
+Change Component Library : Designator=CN_OUT Old Library=[0509]TERMINAL_282841-3.IntLib New Library=tblMyEDA_Library.IntLib
+Change Component Library : Designator=F1 Old Library=[0702]FUSE0603_SMD_FUSC1608X60N.IntLib New Library=tblMyEDA_Library.IntLib
+Added Component: Designator=C1(CAPC2012X60N)
+Added Component: Designator=CN1(THT_Hdr_Fm_10x1_0.1_ST)
+Added Component: Designator=CN2(THT_Hdr_Fm_10x1_0.1_ST)
+Added Component: Designator=CN3(THT_Hdr_JST_XH_Fm_2x1_0.1_RA)
+Added Component: Designator=CN4(THT_Hdr_JST_XH_Fm_4x1_0.1_RA)
+Added Component: Designator=CN5(THT_Hdr_JST_XH_Fm_2x1_0.1_RA)
+Added Component: Designator=J1(SOIC254P670X180-4N)
+Added Component: Designator=U4(SOT95P230X110-3N)
+Added Component: Designator=U20(SOIC127P600X175-16N)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=PSU_EN Pin=CN1-4
+Added Pin To Net: NetName=AC_CTL Pin=CN1-7
+Added Pin To Net: NetName=+3V3 Pin=CN1-8
+Added Pin To Net: NetName=+5 Pin=CN2-7
+Added Pin To Net: NetName=GND Pin=CN2-8
+Added Pin To Net: NetName=+5 Pin=CN4-1
+Added Pin To Net: NetName=GND Pin=CN4-4
+Added Pin To Net: NetName=GND Pin=CN5-2
+Added Pin To Net: NetName=GND Pin=D10-3
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=PD_C Pin=J1-2
+Added Pin To Net: NetName=PSU_EN Pin=J1-3
+Added Pin To Net: NetName=+5 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=+5 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U20-6
+Added Pin To Net: NetName=GND Pin=U20-7
+Added Pin To Net: NetName=GND Pin=U20-8
+Added Pin To Net: NetName=AC_CUR Pin=U20-12
+Added Pin To Net: NetName=+5 Pin=U20-16
+Added Pin To Net: NetName=ADC Pin=CN1-2
+Added Pin To Net: NetName=ADC Pin=U20-13
+Added Net: Name=ADC
+Added Pin To Net: NetName=MUL_A Pin=CN1-5
+Added Pin To Net: NetName=MUL_A Pin=U20-10
+Added Net: Name=MUL_A
+Added Pin To Net: NetName=MUL_B Pin=CN1-6
+Added Pin To Net: NetName=MUL_B Pin=U20-9
+Added Net: Name=MUL_B
+Added Pin To Net: NetName=RX Pin=CN2-2
+Added Pin To Net: NetName=RX Pin=CN3-2
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=CN2-3
+Added Pin To Net: NetName=SCL Pin=CN4-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=CN2-4
+Added Pin To Net: NetName=SDA Pin=CN4-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=TEMP Pin=U4-2
+Added Pin To Net: NetName=TEMP Pin=U20-15
+Added Net: Name=TEMP
+Added Pin To Net: NetName=TX Pin=CN2-1
+Added Pin To Net: NetName=TX Pin=CN3-1
+Added Net: Name=TX
+Added Pin To Net: NetName=VBAT Pin=CN5-1
+Added Pin To Net: NetName=VBAT Pin=Q4-3
+Added Pin To Net: NetName=VBAT Pin=R31-1
+Added Pin To Net: NetName=VBAT Pin=U20-14
+Added Net: Name=VBAT
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C1 100N
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN1 10
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN2 10
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN3 2
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN4 4
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN5 2
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component J1 LTV-356T
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component U4 MCP9701T
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component U20 74HCT4052D

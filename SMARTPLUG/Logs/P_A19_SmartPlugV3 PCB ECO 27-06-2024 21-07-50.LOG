@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=LINE_SNS Pin=F1-1
+Added Component: Designator=R38(RESC2012X60N)
+Added Component: Designator=U(SOIC254P1016X440-4N)
+Added Pin To Net: NetName=LINE_SNS Pin=CN_OUT-1
+Added Pin To Net: NetName=NEUTRAL Pin=D10-2
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=LINE_SNS Pin=U-4
+Added Pin To Net: NetName=CHG Pin=CN1-3
+Added Pin To Net: NetName=CHG Pin=R38-1
+Added Net: Name=CHG
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=U-3
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U-1
+Added Net: Name=NetR38_2
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component U VOT8024AB-VT

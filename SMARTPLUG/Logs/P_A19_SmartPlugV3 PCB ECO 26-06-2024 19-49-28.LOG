@@ -1,0 +1,4 @@
+Added Component: Designator=D2(SOT95P230X110-3N)
+Added Pin To Net: NetName=LS+ Pin=D2-1
+Added Pin To Net: NetName=VREG Pin=D2-3
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component D2 ZHCS1000TA
