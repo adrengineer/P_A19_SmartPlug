@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=FLG Pin=CN9-1
+Added Pin To Net: NetName=VSNK Pin=CN9-2
+Added Pin To Net: NetName=VSCR Pin=CN9-3
+Added Pin To Net: NetName=VBUS Pin=CN9-4
+Added Pin To Net: NetName=VSNS Pin=CN9-5
+Added Pin To Net: NetName=EN Pin=CN9-6
+Added Pin To Net: NetName=ADD Pin=CN9-7
+Added Pin To Net: NetName=SCL Pin=CN9-8
+Added Pin To Net: NetName=SDA Pin=CN9-9
+Added Pin To Net: NetName=CC1 Pin=CN10-1
+Added Pin To Net: NetName=CC2 Pin=CN10-2
+Added Pin To Net: NetName=DATA_P Pin=CN10-3
+Added Pin To Net: NetName=DATA_N Pin=CN10-4

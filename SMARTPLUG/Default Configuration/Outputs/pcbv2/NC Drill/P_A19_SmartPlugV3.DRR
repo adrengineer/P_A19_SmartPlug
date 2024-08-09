@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: P_A19_SmartPlugV3.CSPcbDoc   06/07/2024  21:59:51
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : P_A19_SmartPlugV3.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.5mm (19.685mil)        Round          15               70.44 mm (2.77 Inch)
+T2        0.6mm (23.622mil)        Round          36               349.38 mm (13.76 Inch)
+T3        0.7112mm (28mil)         Round          38               418.53 mm (16.48 Inch)
+T4        0.75mm (29.528mil)       Round          2                3.48 mm (0.14 Inch)
+T5        1mm (39.37mil)           Round          57               486.83 mm (19.17 Inch)
+T6        1.29mm (50.787mil)       Round          1                0.00 mm (0.00 Inch)
+T7        1.32mm (51.968mil)       Round          4                36.20 mm (1.43 Inch)
+T8        1.4mm (55.118mil)        Round          6                113.22 mm (4.46 Inch)
+T9        3mm (118.11mil)          Round          9                332.58 mm (13.09 Inch)
+T10       0.65mm (25.591mil)       Round          2         NPTH   5.78 mm (0.23 Inch)
+---------------------------------------------------------------------------
+Totals                                            170              1816.43 mm (71.51 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,9 @@
+Added Component: Designator=H17(P400H300)
+Added Component: Designator=H18(P400H300)
+Added Component: Designator=H19(P400H300)
+Added Pin To Net: NetName=DGND Pin=H17-1
+Added Pin To Net: NetName=DGND Pin=H18-1
+Added Pin To Net: NetName=DGND Pin=H19-1
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H17 P400H300
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H18 P400H300
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H19 P400H300

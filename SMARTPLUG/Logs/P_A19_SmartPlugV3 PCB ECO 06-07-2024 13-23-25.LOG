@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=H7 Old DesignItemId=505 New DesignItemId=506
+Change Component Footprint: Designator=H7 Old Footprint=P600H300 New Footprint=P400H300
+Change Component Comment : Designator=H7 Old Comment=P600H300 New Comment=P400H300

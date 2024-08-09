@@ -1,14 +1,16 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 20:32:39 On 22/02/2024
+Start Output Generation At 18:51:15 On 15/07/2024
 
-Output: BOM_PartType
-Type  : BOM
-From  : Variant [[No Variations]] of Project [SMARTPLUG.PrjPcb]
-   Generated File[BOM_PartType-SMARTPLUG.csv]
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [P_A19_SmartPlugV3.CSPcbDoc]
+   Generated File[P_A19_SmartPlugV3.TXT]
+   Generated File[P_A19_SmartPlugV3.LDP]
+   Generated File[P_A19_SmartPlugV3.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 20:32:40 On 22/02/2024
+Finished Output Generation At 18:51:16 On 15/07/2024

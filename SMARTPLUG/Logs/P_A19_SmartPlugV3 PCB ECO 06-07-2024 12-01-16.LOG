@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VSNK Pin=CN9-2
+Removed Pin From Net: NetName=VBUS Pin=CN9-4
+Removed Pin From Net: NetName=CC1 Pin=CN10-1
+Removed Pin From Net: NetName=CC2 Pin=CN10-2
+Removed Pin From Net: NetName=DATA_P Pin=CN10-3
+Removed Pin From Net: NetName=DATA_N Pin=CN10-4
+Added Pin To Net: NetName=VSNK Pin=CN10-1
+Added Pin To Net: NetName=CC1 Pin=CN10-5
+Added Pin To Net: NetName=CC2 Pin=CN10-6
+Added Pin To Net: NetName=DATA_P Pin=CN10-7
+Added Pin To Net: NetName=DATA_N Pin=CN10-8
+Added Pin To Net: NetName=VBUS Pin=CN10-10

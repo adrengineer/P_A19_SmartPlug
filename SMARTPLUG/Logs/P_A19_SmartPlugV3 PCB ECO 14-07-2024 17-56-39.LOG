@@ -1,0 +1,84 @@
+Added Component: Designator=U(SOIC127P600X175-8N)
+Added Pin To Net: NetName=RX Pin=B61-6
+Added Pin To Net: NetName=TX Pin=B61-7
+Added Pin To Net: NetName=RX Pin=U-1
+Added Pin To Net: NetName=TX Pin=U-4
+Added Pin To Net: NetName=+5V Pin=B61-1
+Added Pin To Net: NetName=+5V Pin=R61-2
+Added Pin To Net: NetName=+5V Pin=R66-2
+Added Pin To Net: NetName=+5V Pin=R67-1
+Added Pin To Net: NetName=+5V Pin=U-8
+Added Net: Name=+5V
+Added Pin To Net: NetName=CPP Pin=B61-2
+Added Pin To Net: NetName=CPP Pin=R65-2
+Added Net: Name=CPP
+Added Pin To Net: NetName=CTL Pin=B61-5
+Added Pin To Net: NetName=CTL Pin=U-2
+Added Pin To Net: NetName=CTL Pin=U-3
+Added Net: Name=CTL
+Added Pin To Net: NetName=NetB61_4 Pin=B61-4
+Added Pin To Net: NetName=NetB61_4 Pin=R61-1
+Added Net: Name=NetB61_4
+Added Pin To Net: NetName=NetC62_2 Pin=C62-2
+Added Pin To Net: NetName=NetC62_2 Pin=CN61-1
+Added Pin To Net: NetName=NetC62_2 Pin=D61-2
+Added Pin To Net: NetName=NetC62_2 Pin=R62-2
+Added Net: Name=NetC62_2
+Added Pin To Net: NetName=NetD61_1 Pin=D61-1
+Added Pin To Net: NetName=NetD61_1 Pin=L61-2
+Added Pin To Net: NetName=NetD61_1 Pin=Q61-3
+Added Net: Name=NetD61_1
+Added Pin To Net: NetName=NetQ61_1 Pin=Q61-1
+Added Pin To Net: NetName=NetQ61_1 Pin=Q66-C
+Added Pin To Net: NetName=NetQ61_1 Pin=R64-1
+Added Net: Name=NetQ61_1
+Added Pin To Net: NetName=NetQ66_B Pin=Q66-B
+Added Pin To Net: NetName=NetQ66_B Pin=R65-1
+Added Net: Name=NetQ66_B
+Added Pin To Net: NetName=RS_N Pin=J60-3
+Added Pin To Net: NetName=RS_N Pin=U-7
+Added Net: Name=RS_N
+Added Pin To Net: NetName=RS_P Pin=J60-1
+Added Pin To Net: NetName=RS_P Pin=U-6
+Added Net: Name=RS_P
+Added Pin To Net: NetName=SGND Pin=B61-8
+Added Pin To Net: NetName=SGND Pin=C61-1
+Added Pin To Net: NetName=SGND Pin=C62-1
+Added Pin To Net: NetName=SGND Pin=CN61-3
+Added Pin To Net: NetName=SGND Pin=J60-6
+Added Pin To Net: NetName=SGND Pin=J60-7
+Added Pin To Net: NetName=SGND Pin=J60-8
+Added Pin To Net: NetName=SGND Pin=L61-1
+Added Pin To Net: NetName=SGND Pin=Q66-E
+Added Pin To Net: NetName=SGND Pin=R63-1
+Added Pin To Net: NetName=SGND Pin=R67-2
+Added Pin To Net: NetName=SGND Pin=U-5
+Added Net: Name=SGND
+Added Pin To Net: NetName=VCC Pin=C61-2
+Added Pin To Net: NetName=VCC Pin=J60-2
+Added Pin To Net: NetName=VCC Pin=J60-4
+Added Pin To Net: NetName=VCC Pin=J60-5
+Added Pin To Net: NetName=VCC Pin=Q61-2
+Added Pin To Net: NetName=VCC Pin=R64-2
+Added Pin To Net: NetName=VCC Pin=R66-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VOUT Pin=B61-3
+Added Pin To Net: NetName=VOUT Pin=R62-1
+Added Pin To Net: NetName=VOUT Pin=R63-2
+Added Net: Name=VOUT
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component B61 PIC16F15214T-I_SN
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C61 10U
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C62 10U
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN61 3
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component D61 SS56ALH
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component J60 3046-881
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component L61 2.2uH
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component Q61 DMP6350S
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component Q66 BC860C
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R61 10K
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R62 10K
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R63 10K
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R64 10K
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R65 10K
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R66 10K
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R67 10K

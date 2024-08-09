@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetR38_2 Pin=U-1
+Removed Pin From Net: NetName=RXC Pin=U-1
+Removed Pin From Net: NetName=CTL Pin=U-2
+Removed Pin From Net: NetName=GND Pin=U-2
+Removed Pin From Net: NetName=CTL Pin=U-3
+Removed Pin From Net: NetName=LINE_SNS Pin=U-3
+Removed Pin From Net: NetName=NetF1_1 Pin=U-4
+Removed Pin From Net: NetName=TXC Pin=U-4
+Removed Pin From Net: NetName=SGND Pin=U-5
+Removed Pin From Net: NetName=RS_P Pin=U-6
+Removed Pin From Net: NetName=RS_N Pin=U-7
+Removed Pin From Net: NetName=+5V Pin=U-8
+Added Component: Designator=C6(CAPAE430X540)
+Added Component: Designator=R1(RESADV350W55L740D260B)
+Added Component: Designator=R5(RESC2012X60N)
+Added Component: Designator=R10(RESC2012X60N)
+Added Component: Designator=R11(RESC2012X60N)
+Added Component: Designator=U(SOIC127P600X175-8N)
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetR38_2 Pin=U-1
+Added Pin To Net: NetName=RXC Pin=U-1
+Added Pin To Net: NetName=CTL Pin=U-2
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=CTL Pin=U-3
+Added Pin To Net: NetName=LINE_SNS Pin=U-3
+Added Pin To Net: NetName=NetF1_1 Pin=U-4
+Added Pin To Net: NetName=TXC Pin=U-4
+Added Pin To Net: NetName=SGND Pin=U-5
+Added Pin To Net: NetName=RS_P Pin=U-6
+Added Pin To Net: NetName=RS_N Pin=U-7
+Added Pin To Net: NetName=+5V Pin=U-8
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R1-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-1
+Added Pin To Net: NetName=NetC6_1 Pin=R10-1
+Added Pin To Net: NetName=NetC6_1 Pin=R11-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=TRANS Pin=R1-2
+Added Pin To Net: NetName=TRANS Pin=R5-2
+Added Pin To Net: NetName=TRANS Pin=U20-11
+Added Net: Name=TRANS
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C6 10uF
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R1 RES
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R5 0R0
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R10 0R0
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R11 0R0
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component U SP485EEN-L

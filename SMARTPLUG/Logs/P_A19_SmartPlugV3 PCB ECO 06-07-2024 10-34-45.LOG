@@ -1,0 +1,4 @@
+Added Component: Designator=H5(P600H300)
+Added Component: Designator=H6(P600H300)
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H5 P600H300
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component H6 P600H300

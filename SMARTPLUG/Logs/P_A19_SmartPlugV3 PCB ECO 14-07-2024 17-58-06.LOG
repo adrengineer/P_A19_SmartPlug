@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=RX Pin=B61-6
+Removed Pin From Net: NetName=TX Pin=B61-7
+Removed Pin From Net: NetName=NetR38_2 Pin=U-1
+Removed Pin From Net: NetName=RX Pin=U-1
+Removed Pin From Net: NetName=CTL Pin=U-2
+Removed Pin From Net: NetName=GND Pin=U-2
+Removed Pin From Net: NetName=CTL Pin=U-3
+Removed Pin From Net: NetName=LINE_SNS Pin=U-3
+Removed Pin From Net: NetName=NetF1_1 Pin=U-4
+Removed Pin From Net: NetName=TX Pin=U-4
+Removed Pin From Net: NetName=SGND Pin=U-5
+Removed Pin From Net: NetName=RS_P Pin=U-6
+Removed Pin From Net: NetName=RS_N Pin=U-7
+Removed Pin From Net: NetName=+5V Pin=U-8
+Change Component DesignItemId : Designator=U Old DesignItemId=SP485EEN-L New DesignItemId=VOT8024AB-VT
+Change Component Footprint: Designator=U Old Footprint=SOIC127P600X175-8N New Footprint=SOIC254P1016X440-4N
+Change Component Comment : Designator=U Old Comment=SP485EEN-L New Comment=VOT8024AB-VT
+Added Component: Designator=U(SOIC127P600X175-8N)
+Added Pin To Net: NetName=NetR38_2 Pin=U-1
+Added Pin To Net: NetName=CTL Pin=U-2
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=CTL Pin=U-3
+Added Pin To Net: NetName=LINE_SNS Pin=U-3
+Added Pin To Net: NetName=NetF1_1 Pin=U-4
+Added Pin To Net: NetName=RXC Pin=B61-6
+Added Pin To Net: NetName=RXC Pin=U-1
+Added Net: Name=RXC
+Added Pin To Net: NetName=TXC Pin=B61-7
+Added Pin To Net: NetName=TXC Pin=U-4
+Added Net: Name=TXC

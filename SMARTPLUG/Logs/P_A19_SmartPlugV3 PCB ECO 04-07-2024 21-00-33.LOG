@@ -1,0 +1,12 @@
+Added Component: Designator=L?(IND_SRF1260-101M)
+Added Component: Designator=Q?(SOT91P240X110-3N)
+Added Pin To Net: NetName=+V_POWER Pin=L?-1
+Added Pin To Net: NetName=NetD3_3 Pin=L?-3
+Added Pin To Net: NetName=NetC7_1 Pin=Q?-1
+Added Pin To Net: NetName=NetD3_3 Pin=Q?-2
+Added Pin To Net: NetName=DGND Pin=Q?-3
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C21 1U
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN10 10
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component L? 100uH
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component Q? 
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R15 220K

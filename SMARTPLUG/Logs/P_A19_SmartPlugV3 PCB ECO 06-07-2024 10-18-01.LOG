@@ -1,0 +1,8 @@
+Added Component: Designator=CN11(THT_Hdr_JST_XH_Fm_2x1_0.1_RA)
+Added Component: Designator=CN12(THT_Hdr_JST_XH_Fm_2x1_0.1_RA)
+Added Pin To Net: NetName=DGND Pin=CN11-1
+Added Pin To Net: NetName=+V_POWER Pin=CN11-2
+Added Pin To Net: NetName=DGND Pin=CN12-1
+Added Pin To Net: NetName=+V_BOOST Pin=CN12-2
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN11 2
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN12 2

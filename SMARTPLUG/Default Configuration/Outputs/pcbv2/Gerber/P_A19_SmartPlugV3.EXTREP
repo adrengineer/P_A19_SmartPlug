@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: P_A19_SmartPlugV3.GBR   06/07/2024  21:59:49
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GBP                Bottom Paste                            
+.GKO                Keep-Out Layer                          
+.Outline            Mechanical 1                            
+.Dimensions         Outline                                 
+.Assembly Text Top  Mechanical 6                            
+.3D Top             Mechanical 13                           
+.3D Bottom          Mechanical 14                           
+.Courtyard Top      Mechanical 15                           
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+------------------------------------------------------------------------------------------

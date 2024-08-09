@@ -1,0 +1,121 @@
+Added Component: Designator=C90(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=C?(CAPC2012X60N)
+Added Component: Designator=CN?(THT_Hdr_Fm_10x1_0.1_ST)
+Added Component: Designator=CN?(THT_Hdr_Fm_10x1_0.1_ST)
+Added Component: Designator=CN?(THT_Hdr_JST_XH_Fm_2x1_0.1_RA)
+Added Component: Designator=CN?(THT_Hdr_JST_XH_Fm_2x1_0.1_RA)
+Added Component: Designator=CN?(GCT_USB4110-GF-A_REVB)
+Added Component: Designator=D3(SOT95P230X110-3N)
+Added Component: Designator=D3(SOT95P230X110-3N)
+Added Component: Designator=Q?(SOT95P280X145-6N)
+Added Component: Designator=Q?(SOT95P280X145-6N)
+Added Component: Designator=R80(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Component: Designator=R?(RESC2012X60N)
+Added Pin To Net: NetName=DGND Pin=C90-2
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=CN?-2
+Added Pin To Net: NetName=DGND Pin=CN?-2
+Added Pin To Net: NetName=DGND Pin=CN?-A1/B12
+Added Pin To Net: NetName=DGND Pin=CN?-B1/A12
+Added Pin To Net: NetName=DGND Pin=D3-3
+Added Pin To Net: NetName=DGND Pin=D3-3
+Added Pin To Net: NetName=DGND Pin=R80-1
+Added Pin To Net: NetName=DGND Pin=R?-1
+Added Pin To Net: NetName=DGND Pin=R?-1
+Added Pin To Net: NetName=DGND Pin=R?-1
+Added Pin To Net: NetName=DGND Pin=R?-1
+Added Pin To Net: NetName=SCL Pin=R?-1
+Added Pin To Net: NetName=SDA Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Net: Name=3.3V
+Added Net: Name=ADD
+Added Net: Name=CC1
+Added Net: Name=CC2
+Added Pin To Net: NetName=CHS Pin=C90-1
+Added Pin To Net: NetName=CHS Pin=CN?-S1
+Added Pin To Net: NetName=CHS Pin=CN?-S2
+Added Pin To Net: NetName=CHS Pin=CN?-S3
+Added Pin To Net: NetName=CHS Pin=CN?-S4
+Added Pin To Net: NetName=CHS Pin=R80-2
+Added Net: Name=CHS
+Added Pin To Net: NetName=DATA_N Pin=CN?-A7
+Added Pin To Net: NetName=DATA_N Pin=CN?-B7
+Added Net: Name=DATA_N
+Added Pin To Net: NetName=DATA_P Pin=CN?-A6
+Added Pin To Net: NetName=DATA_P Pin=CN?-B6
+Added Net: Name=DATA_P
+Added Pin To Net: NetName=EN Pin=R?-1
+Added Net: Name=EN
+Added Pin To Net: NetName=FLG Pin=R?-1
+Added Net: Name=FLG
+Added Net: Name=INA
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-4
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-6
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=CN?-1
+Added Pin To Net: NetName=NetC?_2 Pin=D3-1
+Added Pin To Net: NetName=NetC?_2 Pin=Q?-3
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-5
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=R?-1
+Added Pin To Net: NetName=VBUS Pin=R?-2
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VSCR Pin=C?-2
+Added Pin To Net: NetName=VSCR Pin=R?-1
+Added Pin To Net: NetName=VSCR Pin=R?-2
+Added Net: Name=VSCR
+Added Pin To Net: NetName=VSNK Pin=C?-2
+Added Pin To Net: NetName=VSNK Pin=R?-1
+Added Pin To Net: NetName=VSNK Pin=R?-2
+Added Net: Name=VSNK
+Added Pin To Net: NetName=VSNS Pin=R?-1
+Added Pin To Net: NetName=VSNS Pin=R?-2
+Added Net: Name=VSNS
+Added Differential Pair: Name=DATA
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C17 1N5
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C90 100N
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component C? 1U
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component CN? 10
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component Q? 
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R11 12K
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R80 0R0
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component R? 220K

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RX Pin=B61-6
+Removed Pin From Net: NetName=TX Pin=B61-7
+Removed Pin From Net: NetName=RX Pin=U-1
+Removed Pin From Net: NetName=TX Pin=U-4
+Added Pin To Net: NetName=RXC Pin=B61-6
+Added Pin To Net: NetName=RXC Pin=U-1
+Added Net: Name=RXC
+Added Pin To Net: NetName=TXC Pin=B61-7
+Added Pin To Net: NetName=TXC Pin=U-4
+Added Net: Name=TXC

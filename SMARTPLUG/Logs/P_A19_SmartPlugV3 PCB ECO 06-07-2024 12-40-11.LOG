@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=ADD Pin=CN10-3
+Added Pin To Net: NetName=INA Pin=CN9-3
+Added Pin To Net: NetName=ADD Pin=CN9-10

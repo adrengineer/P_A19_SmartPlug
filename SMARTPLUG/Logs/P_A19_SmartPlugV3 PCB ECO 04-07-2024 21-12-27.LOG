@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetQ6_1 Pin=R14-1
+Removed Pin From Net: NetName=NetC20_2 Pin=R14-2
+Change Component DesignItemId : Designator=R14 Old DesignItemId=13 New DesignItemId=526
+Change Component Footprint: Designator=R14 Old Footprint=RESC2012X60N New Footprint=RESADV350W55L740D260B
+Change Component Comment : Designator=R14 Old Comment=12K New Comment=RES
+Added Pin To Net: NetName=NetC20_2 Pin=R14-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R14-2
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component D3 ZHCS1000TA

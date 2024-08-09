@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=H8 Old DesignItemId=505 New DesignItemId=506
+Change Component DesignItemId : Designator=H9 Old DesignItemId=505 New DesignItemId=506
+Change Component Footprint: Designator=H8 Old Footprint=P600H300 New Footprint=P400H300
+Change Component Footprint: Designator=H9 Old Footprint=P600H300 New Footprint=P400H300
+Change Component Comment : Designator=H8 Old Comment=P600H300 New Comment=P400H300
+Change Component Comment : Designator=H9 Old Comment=P600H300 New Comment=P400H300

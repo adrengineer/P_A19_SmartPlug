@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=FLG Pin=CN9-1
+Removed Pin From Net: NetName=VSCR Pin=CN9-3
+Removed Pin From Net: NetName=VSNS Pin=CN9-5
+Removed Pin From Net: NetName=ADD Pin=CN9-7
+Removed Pin From Net: NetName=CC1 Pin=CN10-5
+Removed Pin From Net: NetName=CC2 Pin=CN10-6
+Added Pin To Net: NetName=VSCR Pin=CN9-1
+Added Pin To Net: NetName=CC2 Pin=CN9-4
+Added Pin To Net: NetName=CC1 Pin=CN9-5
+Added Pin To Net: NetName=FLG Pin=CN9-7
+Added Pin To Net: NetName=ADD Pin=CN10-3
+Added Pin To Net: NetName=VSNS Pin=CN10-5

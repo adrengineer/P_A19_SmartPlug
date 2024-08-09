@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component D4 ZHCS1000TA
+Added Member To Class: ClassName=P_A19_SmartPlugV3 Member=Component D5 ZHCS1000TA
