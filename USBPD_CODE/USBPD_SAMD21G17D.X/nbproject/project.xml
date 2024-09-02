@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>USBPD_SAMD21G17D</name>
+            <creation-uuid>4c31fb9c-54d3-4436-a117-2dcbdea33528</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>D:/Adrian. Projects/P_A19_SmartPlug/USBPD_CODE/stm32-bsp-usbpd-tcpp0203-main</sourceRootElem>
+                <sourceRootElem>D:/Adrian. Projects/P_A19_SmartPlug/USBPD_CODE/stm32-tcpp0203-9918655bff176ac3046ccf378b5c7bbbc6a38d15</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
